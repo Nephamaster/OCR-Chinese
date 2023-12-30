@@ -1,5 +1,7 @@
 # **OCR-Chinese**
 
+本项目是对论文 **Robust Scene Text Recognition with Automatic Rectification** ( https://arxiv.org/abs/1603.03915v2 ) 的具体实现
+
 ## **汉字文本识别模型**
 
 + 能够识别**黑体楷体宋体汉字**、**数字**、**英文字符**、所有**标点符号**以及**特殊符号（@#$%&^等）**
